@@ -35,14 +35,4 @@ BABFT → Blender → Edit → Export → BABFT
 - Block limit up to **500,000 blocks**
 
 ## 🔄 Workflow
-BABFT .build file
-       ↓
-    Import
-       ↓
-    Blender
-       ↓
- Edit / Build
-       ↓
-    Export
-       ↓
-BABFT .build file
+BABFT .build file - import - editoring in blender - export to babft .Build file
